@@ -1,4 +1,5 @@
-
+#Name: Rezwanul islam Bondhon
+#Gmail: bondhonbondhon342@gmail.com
 import pyautogui
 import pyowm
 import pyttsx3
